@@ -1,4 +1,4 @@
-//Q15.Write a Java program to print a half diamond pattern.
+
 import java.util.Scanner;
 public class Halfdiamond {
     public static void main(String[] args){
@@ -19,3 +19,4 @@ public class Halfdiamond {
         sc.close();
     }
 }
+
