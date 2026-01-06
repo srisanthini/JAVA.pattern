@@ -1,4 +1,4 @@
-//to print a hollow square pattern with both diagonals.
+
 import java.util.Scanner;
 public class Hollowwithbothdia {
     public static void main(String[] args) {
@@ -17,4 +17,5 @@ public class Hollowwithbothdia {
         }
         sc.close();
     }
+
 }
