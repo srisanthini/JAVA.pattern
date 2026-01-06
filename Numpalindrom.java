@@ -1,4 +1,4 @@
-//Q24.Write a Java program to print a number palindrome pyramid.
+
 import java.util.Scanner;
 public class Numpalindrom {
     public static void main(String[] args){
@@ -18,4 +18,5 @@ public class Numpalindrom {
         }
         sc.close();
     }
+
 }
