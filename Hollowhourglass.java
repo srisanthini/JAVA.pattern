@@ -1,4 +1,4 @@
-//Q20.Write a Java program to print a hollow hour glass pattern.
+
 import java.util.Scanner;
 public class Hollowhourglass {
     public static void main(String[] args){
@@ -32,4 +32,5 @@ public class Hollowhourglass {
         }
         sc.close();
     }
+
 }
