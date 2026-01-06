@@ -1,4 +1,4 @@
-//Write a Java program to print a reverse half diamond pattern.
+
 
 import java.util.Scanner;
 public class Revhalfdiamond {
@@ -20,3 +20,4 @@ public class Revhalfdiamond {
         sc.close();
     }
 }
+
