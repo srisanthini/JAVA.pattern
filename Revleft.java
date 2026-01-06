@@ -1,4 +1,4 @@
-// to print a invert of left angle triangle pattern.
+
 import java.util.Scanner;
 public class Revleft {
     public static void main(String[] args){
@@ -19,4 +19,5 @@ public class Revleft {
     
 }
     }
+
 }
