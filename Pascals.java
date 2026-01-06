@@ -1,4 +1,4 @@
-//Q23.Write a Java program to print Pascal’s Triangle.
+
 import java.util.Scanner;
 public class Pascals {
     public static void main(String[] args){
@@ -14,4 +14,5 @@ public class Pascals {
         }
         sc.close();
     }
+
 }
